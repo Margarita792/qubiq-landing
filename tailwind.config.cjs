@@ -8,7 +8,7 @@ module.exports = {
     container: { center: true, padding: "1rem", screens: { lg: "1120px" } },
     extend: {
       colors: {
-        primary: "#111827",     // подменишь под палитру из Figma
+        primary: "#111827",   
         accent:  "#22C55E",
         muted:   "#6B7280",
         bg:      "#0B0D10"
